@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="mslearn-react/mslearn-react.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
